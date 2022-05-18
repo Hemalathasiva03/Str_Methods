@@ -1,4 +1,4 @@
-package StringMethod;
+//package StringMethod;
 
 public class StrMethods 
 
